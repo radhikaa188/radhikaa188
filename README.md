@@ -20,8 +20,6 @@ Building AI-powered products, scalable web applications, and real-world solution
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 **Languages** — C++ · JavaScript · TypeScript · Python · Java
 
 **Frontend** — React · Next.js · Tailwind CSS · HTML · CSS
