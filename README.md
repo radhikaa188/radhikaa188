@@ -44,17 +44,16 @@ Building AI-powered products, scalable web applications, and real-world solution
 
 ## 📂 Featured Projects
 
-### 🎙️ Saksham.ai
+### Saksham.ai
 
 Voice-first multilingual AI learning platform supporting 50+ skill paths and multiple languages using Google Cloud Speech APIs.
 
-### 🎨 WebCraft AI
+### MiniDB
+Implemented a relational database engine in C++ from scratch, including binary file persistence, custom query tokenizer and parser, and a shadow-copy transaction model for atomicity and rollback on failure.
 
-AI-powered platform that converts natural language prompts into production-ready UI components using Gemini AI.
 
-### 🤖 Interview Buddy
-
-AI mock interview platform with role-specific question generation, automated evaluation, and scoring.
+### Concurrency-Safe Event Ticket Booking Platform 
+Designed a concurrency-safe seat reservation system using PostgreSQL row-level locking to prevent double-booking under simultaneous requests.
 
 ---
 
