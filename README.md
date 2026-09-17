@@ -44,9 +44,9 @@ Building AI-powered products, scalable web applications, and real-world solution
 
 ## 📂 Featured Projects
 
-### Saksham.ai
+### Revora Ai
 
-Voice-first multilingual AI learning platform supporting 50+ skill paths and multiple languages using Google Cloud Speech APIs.
+Built **RecoverAI**, a prototype AI agent that identifies revenue at risk from failed payments and autonomously decides and executes the most appropriate recovery action within policy guardrails.
 
 ### MiniDB
 Implemented a relational database engine in C++ from scratch, including binary file persistence, custom query tokenizer and parser, and a shadow-copy transaction model for atomicity and rollback on failure.
